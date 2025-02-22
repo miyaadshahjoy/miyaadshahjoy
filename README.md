@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi! My name is Miyaad Shah Joy 😄
 
+🌐 I am a Full-Stack JavaScript Developer based in Rajshahi, Bangladesh.
+💻 Open to work.
+
+# Tech Stack
 <!--
 **miyaadshahjoy/miyaadshahjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
