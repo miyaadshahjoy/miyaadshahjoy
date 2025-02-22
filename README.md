@@ -1,29 +1,35 @@
-# Hi! My name is Miyaad Shah Joy 😄
+# Hi! My name is Miyaad Shah Joy 😁
+### Full Stack JavaScript Developer | MERN Stack Expert | Real-Time App Enthusiast
 
-🌐 I am a Full-Stack JavaScript Developer based in Rajshahi, Bangladesh. <br/>
-💻 Open to work. <br/>
+🚀 Passionate about building scalable web applications and innovative solutions.  
+💻 Experienced in Node.js, React.js, MongoDB, PostgreSQL, and RESTful APIs.  
+⚡ I love exploring new technologies and building real-time apps.  
 
-### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,nextjs,mongodb,postgresql,npm&perline=15)](https://skillicons.dev)
+---
 
-### Socials
-<div id="badges">
-  <a href="https://www.linkedin.com/in/miyaad-shah/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+### 🔥 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![API](https://img.shields.io/badge/REST-API-1E8CBE?style=flat-square&logo=swagger&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-Real--Time-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-<!--
-**miyaadshahjoy/miyaadshahjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- OAuth Authentication for social media APIs  
+- Advanced real-time communication with WebSockets  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/miyaad-shah)
+
+---
+
+### 🎯 Fun Fact
+I'm an anime enthusiast who loves stories with obsessive love arcs! 😄
